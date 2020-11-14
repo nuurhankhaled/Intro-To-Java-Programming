@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Exercise_03_05{
     public static void main(String[] args){
 
-        Scanner in = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
         System.out.printf("Enter todays date: ");
         int date = in.nextInt();
